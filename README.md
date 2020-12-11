@@ -1,1 +1,4 @@
-# 2018-2019-IBM-Intern-Work
+# AI hardware acceleration with analog memory: Microarchitectures for low energy at high speed
+## 2018-2019-IBM-Intern-Work
+
+Abstract: In this article, we present innovative microarchitectural designs for multilayer deep neural networks (DNNs) implemented in crossbar arrays of analog memories. Data is transferred in a fully parallel manner between arrays without explicit analog-to-digital converters. Design ideas including source follower-based readout, array segmentation, and transmit-by-duration are adopted to improve the circuit efficiency. The execution energy and throughput, for both DNN training and inference, are analyzed quantitatively using circuit simulations of a full CMOS design in the 90-nm technology node. We find that our current design could achieve up to 12–14 TOPs/s/W energy efficiency for training, while a projected scaled design could achieve up to 250 TOPs/s/W. Key challenges in realizing analog AI systems are discussed.
